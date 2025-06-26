@@ -1,0 +1,20 @@
+25:06:2025	20:38:29	3832b019-e1b8-434a-8337-e32602103a4a	Error:ENOENT: no such file or directory, stat 'C:\Users\VAISHNAVI\Desktop\DEMOVIT\view\404.html'
+25:06:2025	20:38:29	e597e09c-d276-434e-975f-2311cf917370	Error:ENOENT: no such file or directory, stat 'C:\Users\VAISHNAVI\Desktop\DEMOVIT\view\404.html'
+25:06:2025	23:40:21	488d4c03-bf1f-49f3-b3b7-2c9f4b796721	TypeError:Cannot read properties of undefined (reading 'length')
+25:06:2025	23:41:06	73902ece-497a-41d0-a877-5659ac3e4049	TypeError:Cannot read properties of undefined (reading 'length')
+25:06:2025	23:41:48	4c66c532-7096-4855-93ea-b7b3d335e2bf	TypeError:Cannot read properties of undefined (reading 'length')
+26:06:2025	11:34:50	bdfc0600-e620-4305-9779-f8565efdd99b	ReferenceError:ErrorEvent is not defined
+26:06:2025	13:32:31	f4910b63-d4ba-43b1-9b8b-d8be34bb7c09	ReferenceError:person is not defined
+26:06:2025	13:34:30	e00772a4-7ebf-447e-b374-632a8158896f	ReferenceError:person is not defined
+26:06:2025	13:34:39	f86e2556-5412-4c9b-bd14-b825077ed02d	ReferenceError:person is not defined
+26:06:2025	13:34:45	ad198cb4-a522-4c36-a57c-0b0acfed2f28	ReferenceError:person is not defined
+26:06:2025	13:37:22	e15bc549-8602-4ac6-b63d-2b486fe66eb3	Error:Cannot set headers after they are sent to the client
+26:06:2025	13:37:31	74b77a37-231a-4cb1-bec4-e1d56a3c0084	ReferenceError:person is not defined
+26:06:2025	13:40:33	64c74050-eb6e-4566-a76d-b198c7c70e79	Error:Cannot set headers after they are sent to the client
+26:06:2025	13:40:58	860f2da4-7901-4c1f-8887-b7e7e6085e24	ReferenceError:person is not defined
+26:06:2025	13:54:36	b8a2bdee-7951-4b7a-ab02-42b827c2cc91	Error:Cannot set headers after they are sent to the client
+26:06:2025	14:03:20	e404724b-40ed-4d77-9386-ae01a97cc989	Error:Cannot set headers after they are sent to the client
+26:06:2025	15:22:17	3d78d5f4-a85e-482f-8938-80b1aa1e6931	Error:Cannot set headers after they are sent to the client
+26:06:2025	15:50:52	906e403b-bf87-427c-8ea8-a379ed77ffff	ReferenceError:cookies is not defined
+26:06:2025	15:51:18	0948346d-0ad5-43f0-a701-399341bde8d3	ReferenceError:cookies is not defined
+26:06:2025	17:49:32	e6337b01-ade8-4c6e-82c0-d106c9bcfc3d	Error:Cannot set headers after they are sent to the client

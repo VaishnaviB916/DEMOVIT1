@@ -1,0 +1,23 @@
+24:06:2025	19:10:21	e0eb85f9-3963-41a3-bc71-025b4a66c229	Log Event emitted!	
+24:06:2025	19:11:52	1e97ec63-a467-4516-8663-c69777732f65	Log Event emitted!	
+24:06:2025	19:12:18	79ebdd54-2897-4513-bbd2-4b79074155dc	Log Event emitte
+24:06:2025	19:13:42	b15a3bd2-0e99-48c4-94bb-e6dad73d8939	Log Event emitted!	24:06:2025	19:16:42	25508198-de25-48e6-aee8-8e030dc3046f	Log Event emitted!
+async(message) =>{
+    const dateTime = format(new Date(),"dd:MM:yyyy\tHH:mm:ss")
+    const logItem =`${dateTime}\t${uuid()}\t${message}`
+
+
+    try{
+        if(!fs.existsSync(path.join(__dirname,'logs')))
+            await fsPromises.mkdir(path.join(__dirname,'logs'))
+        await fsPromises.appendFile(path.join(__dirname,'logs','eventLog.txt'),`${logEvents}\n`)
+
+    }catch (error){
+        console.log(error.message)
+    }
+}
+24:06:2025	19:18:28	1b9786e4-f219-4121-a620-8d183246866d	Log Event emitted!
+24:06:2025	19:18:40	55c2adb1-15fa-418b-9536-77a5b9d0dc4f	Log Event emitted!
+25:06:2025	08:16:18	8bc41a89-1d87-4ca7-ab43-c16ed9e36607	Log Event emitted!
+25:06:2025	14:46:08	e308466b-3050-418b-ae3e-102baa2228d5	GET	undefined	/
+25:06:2025	14:47:07	3280ba93-1197-4938-acb7-9eab49b15a46	GET	undefined	/
